@@ -1,2 +1,1 @@
-# ml-test-repo
-A repository for a basic machine learning model with automated testing
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
